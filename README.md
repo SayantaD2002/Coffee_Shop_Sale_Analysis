@@ -1,7 +1,5 @@
 
-Thank you for providing additional analysis details! I’ll now incorporate this information into the README to better reflect the specific analysis performed. Here's an updated README file:
 
----
 
 # Coffee Shop Sales Analysis - README
 ### Raw Data Screenshot
